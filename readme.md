@@ -23,14 +23,14 @@ Please feel free to pull request, If you found any problem. Also you could conta
 
 ## Screenshots
 
-![All Movies](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs.png)
-![Line Charts](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs6.png)
-![Directors](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs8.png)
-![Datatable](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs4.png)
-![Pie Chart](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs2.png)
-![Heatmap](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs10.png)
-![Heatmap](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs3.png)
-![Stack](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs7.png)
-![Circles](9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs11.png)
+![All Movies](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs.png)
+![Line Charts](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs6.png)
+![Directors](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs8.png)
+![Datatable](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs4.png)
+![Pie Chart](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs2.png)
+![Heatmap](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs10.png)
+![Heatmap](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs3.png)
+![Stack](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs7.png)
+![Circles](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh/blob/0bf2bd3e1fac1a6ce7a89836ad8ef6a5ff0d2e61/\Screenshots\imdbgraphs11.png)
 
 For more screenshots, look at `Screenshots/` folder.
