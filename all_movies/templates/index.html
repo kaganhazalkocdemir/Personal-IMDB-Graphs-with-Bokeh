@@ -1,0 +1,113 @@
+{% extends base %}
+{% block preamble %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Imdb Graphs with Bokeh</title>
+    <link rel="stylesheet" href="all_movies/static/style.css">
+</head>
+<body>
+    <div class="area"></div><nav class="main-menu">
+            <ul>
+                <li>
+                    <a href="http://localhost:5001/main">
+                        <i class="fa fa-home fa-2x"></i>
+                        <span class="nav-text">
+                            Main
+                        </span>
+                    </a>
+
+                </li>
+                <li class="has-subnav">
+                    <a href="http://localhost:5002/all_movies">
+                        <i class="fa fa-film fa-2x"></i>
+                        <span class="nav-text">
+                            All Movies
+                        </span>
+                    </a>
+
+                </li>
+                <li class="has-subnav">
+                    <a href="http://localhost:5002/piecharts">
+                       <i class="fa fa-pie-chart fa-2x"></i>
+                        <span class="nav-text">
+                            Pie Charts
+                        </span>
+                    </a>
+
+                </li>
+                <li class="has-subnav">
+                    <a href="http://localhost:5002/ratings_with_genres">
+                       <i class="fa fa-bar-chart fa-2x"></i>
+                        <span class="nav-text">
+                            Ratings with Genres & Types
+                        </span>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="http://localhost:5002/ratings_with_years">
+                        <i class="fa fa-signal fa-2x"></i>
+                        <span class="nav-text">
+                            Ratings with Years
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://localhost:5002/line_charts">
+                        <i class="fa fa-line-chart fa-2x"></i>
+                        <span class="nav-text">
+                           Line Charts
+                        </span>
+                    </a>
+                </li>
+                <li>
+                   <a href="http://localhost:5002/stack">
+                       <i class="fa fa-area-chart fa-2x"></i>
+                        <span class="nav-text">
+                            Genres, Years Stack
+                        </span>
+                    </a>
+                </li>
+                <li>
+                   <a href="http://localhost:5002/directors">
+                        <i class="fa fa-table fa-2x"></i>
+                        <span class="nav-text">
+                            Directors
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://localhost:5002/tv_series">
+                       <i class="fa fa-television fa-2x"></i>
+                        <span class="nav-text">
+                            TV Series
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://localhost:5002/heatmaps">
+                       <i class="fa fa-square fa-2x"></i>
+                        <span class="nav-text">
+                            Heatmaps
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://localhost:5002/circles">
+                       <i class="fa fa-circle fa-2x"></i>
+                        <span class="nav-text">
+                            Circles (Genres & Types)
+                        </span>
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+    <div class="mcw">
+    {{ embed(roots.all_movies) }}
+    </div>
+</body>
+</html>
+{% endblock %}
