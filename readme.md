@@ -23,14 +23,14 @@ Please feel free to pull request, If you found any problem. Also you could conta
 
 ## Screenshots
 
-![All Movies](\master\Screenshots\imdbgraphs.png)
-![Line Charts](\master\Screenshots\imdbgraphs6.png)
-![Directors](\master\Screenshots\imdbgraphs8.png)
-![Datatable](\master\Screenshots\imdbgraphs4.png)
-![Pie Chart](\master\Screenshots\imdbgraphs2.png)
-![Heatmap](\master\Screenshots\imdbgraphs10.png)
-![Heatmap](\master\Screenshots\imdbgraphs3.png)
-![Stack](\master\Screenshots\imdbgraphs7.png)
-![Circles](\master\Screenshots\imdbgraphs11.png)
+![All Movies](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs.png)
+![Line Charts](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs6.png)
+![Directors](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs8.png)
+![Datatable](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs4.png)
+![Pie Chart](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs2.png)
+![Heatmap](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs10.png)
+![Heatmap](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs3.png)
+![Stack](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs7.png)
+![Circles](/blob/9eee83499e2da13d18bc67f04c7a983e46f6b68f\Screenshots\imdbgraphs11.png)
 
 For more screenshots, look at `Screenshots/` folder.
